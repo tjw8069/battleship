@@ -2,9 +2,11 @@ This program is written for the MSP430 microcontroller.
 
 C code calls the assembly "functions." This took advantage of C readability
 to show the operation of the program. 
+C program: tjw8069_Lab11_c1.c
 
 The assembly functions use less memory and are more efficient to run on a small
 device.
+Assembly program: tjw8069_Lab11_a1.asm
 
 Program flow is as follows:
 1. User presses center button of capacitive touch pad on top of device.
